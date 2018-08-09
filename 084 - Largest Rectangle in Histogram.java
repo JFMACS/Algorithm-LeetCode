@@ -1,3 +1,6 @@
+/*
+HashSet的使用
+*/
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int count = heights.length;
@@ -6,7 +9,7 @@ class Solution {
         
         for (int i = 0; i < count; i++) {
             if( hs.contains(heights[i]) ) {
-                continue;
+                continue;//去除已计算过的高度，减少计算量
             }
             hs.add(heights[i]);
             int height = heights[i];
