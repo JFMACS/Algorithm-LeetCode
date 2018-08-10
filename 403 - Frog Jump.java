@@ -1,3 +1,9 @@
+/*
+递归
+分别用两个HashSet记录所有石头位置与能够到达的石头位置
+每跳一步，就将其位置记录，并递归计算接下来的三个可能位置
+ */
+
 class Solution {
     
     static HashSet canReach = new HashSet();
