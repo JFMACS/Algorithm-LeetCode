@@ -4,6 +4,7 @@
 
 |#|JFMACS|LeetCode|Knowlage|
 |---|:-----:|------|:---:|
+|005|[Longest Palindromic Substring](/005%20-%20Longest%20Palindromic%20Substring.java)|[005. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)|动态规划|
 |017|[Letter Combinations of a Phone Number](/017%20-%20Letter%20Combination%20of%20a%20Phone%20Number.java)|[017. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)|List|
 |084|[Largest Rectangle in Histogram](/084%20-%20Largest%20Rectangle%20in%20Histogram.java)|[084. Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/description/)|HashSet|
 |198|[House Robber](/198%20-%20House%20Robber.java)|[198. House Robber](https://leetcode-cn.com/problems/house-robber/description/)|动态规划|
