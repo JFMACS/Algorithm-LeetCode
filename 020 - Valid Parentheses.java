@@ -6,28 +6,28 @@ class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<Character>();
         char[] ch = s.toCharArray();
-        for(int i = 0; i < ch.length; i++) {
+        for (int i = 0; i < ch.length; i++) {
         	char top;
-        	if(stack.size() != 0){
+        	if (stack.size() != 0) {
         		top = stack.peek();
         	} else {
 				top = ' ';
 			}
         	switch (ch[i]) {
 			case ')':
-				if(top != '('){
+				if (top != '(') {
 					return false;
 				}
 				stack.pop();
 				break;
 			case ']':
-				if(top != '['){
+				if (top != '[') {
 					return false;
 				}
 				stack.pop();
 				break;
 			case '}':
-				if(top != '{'){
+				if (top != '{') {
 					return false;
 				}
 				stack.pop();
@@ -37,7 +37,7 @@ class Solution {
 				break;
 			}
         }
-        if(stack.size() != 0){
+        if (stack.size() != 0) {
         	return false;
         }
         return true;
