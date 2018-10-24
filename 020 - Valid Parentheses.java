@@ -1,7 +1,6 @@
 /*
 使用Stack类实现
  */
-
 class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<Character>();
