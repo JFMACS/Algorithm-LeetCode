@@ -1,6 +1,6 @@
-/*
-HashSet的使用
-*/
+/**
+ * HashSet的使用
+ */
 class Solution {
     public int largestRectangleArea(int[] heights) {
         int count = heights.length;
