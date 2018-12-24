@@ -1,5 +1,5 @@
-/*
-使用Stack类实现
+/**
+ * 使用Stack类实现
  */
 class Solution {
     public boolean isValid(String s) {
