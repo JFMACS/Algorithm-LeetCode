@@ -1,6 +1,6 @@
-/*
-将其中一个数组转成list，遍历另一个找到重复的元素并将其从list中去除
-*/
+/**
+ * 将其中一个数组转成list，遍历另一个找到重复的元素并将其从list中去除
+ */
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         LinkedList<Integer> list = new LinkedList<Integer>();
