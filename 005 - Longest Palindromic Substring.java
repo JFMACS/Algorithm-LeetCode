@@ -1,8 +1,7 @@
-/*
-1.循环从中间向两边延伸
-2.遇到相邻相同的字符，需分两种情况
+/**
+ * 1.循环从中间向两边延伸
+ * 2.遇到相邻相同的字符，需分两种情况
  */
-
 public static String longestPalindrome(String s) {
     String result = "";
     char[] ch = s.toCharArray();
