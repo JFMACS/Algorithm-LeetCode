@@ -1,8 +1,8 @@
-/*
-1. 先将数组排序
-2. 遍历，取出未使用过的数字，向后寻找下一张
-3. 将使用过的数字标记
-*/
+/**
+ * 1. 先将数组排序
+ * 2. 遍历，取出未使用过的数字，向后寻找下一张
+ * 3. 将使用过的数字标记
+ */
 class Solution {
     public boolean isNStraightHand(int[] hand, int W) {
         if(hand.length % W != 0){
