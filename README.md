@@ -3,7 +3,7 @@
 #### 作者：JFMACS
 
 |#|JFMACS|LeetCode|Knowlage|
-|---|:-----:|------|:---:|
+|:---:|-----|------|:---:|
 |005|[Longest Palindromic Substring](/005%20-%20Longest%20Palindromic%20Substring.java)|[005. Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)|动态规划|
 |017|[Letter Combinations of a Phone Number](/017%20-%20Letter%20Combination%20of%20a%20Phone%20Number.java)|[017. Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/description/)|List|
 |020|[Valid Parentheses](/020%20-%20Valid%20Parentheses.java)|[020. Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/description/)|栈|
@@ -17,3 +17,4 @@
 |541|[Reverse String Ⅱ](/541%20-%20Reverse%20-%20String%20-%20Ⅱ.java)|[541. Reverse String Ⅱ](https://leetcode-cn.com/problems/reverse-string-ii/description/)|字符串处理|
 |844|[Backspace String Compare](/844%20-%20Backspace%20String%20Compare.java)|[844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|栈|
 |846|[Hand of Straights](/846%20-%20Hand%20of%20Straights.java)|[846. Hand of Straights](https://leetcode-cn.com/problems/hand-of-straights/description/)|贪心算法|
+|AUD.0801|[Three Steps Problem LCCI](/AUD.0801%20-%20Three%20Steps%20Problem.java)|[AUD.0801. Three Steps Problem LCCI](https://leetcode-cn.com/problems/three-steps-problem-lcci/)|动态规划|
