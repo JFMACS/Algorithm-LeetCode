@@ -19,7 +19,7 @@
 |403|[Frog Jump](/403%20-%20Frog%20Jump.java)|[403. Frog Jump](https://leetcode-cn.com/problems/frog-jump/description/)|递归+动态规划+HashSet|
 |461|[Hamming Distance](/461%20-%20%20Hamming%20Distance.java)|[461. Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/description/)|位运算|
 |541|[Reverse String Ⅱ](/541%20-%20Reverse%20-%20String%20-%20Ⅱ.java)|[541. Reverse String Ⅱ](https://leetcode-cn.com/problems/reverse-string-ii/description/)|字符串处理|
-|697|[Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|[697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|数组|
+|697|[Degree of an Array](/697%20-%20Degree%20of%20an%20Array.java)|[697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|数组|
 |746|[Min Cost Climbing Stairs](/746%20-%20Min%20Cost%20Climbing%20Stairs.java)|[746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|动态规划|
 |841|[Keys and Rooms](/841%20-%20Keys%20and%20Rooms.java)|[841.Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)|深度优先|
 |844|[Backspace String Compare](/844%20-%20Backspace%20String%20Compare.java)|[844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|栈|
