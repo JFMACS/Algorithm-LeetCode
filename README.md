@@ -24,5 +24,6 @@
 |841|[Keys and Rooms](/841%20-%20Keys%20and%20Rooms.java)|[841.Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)|深度优先|
 |844|[Backspace String Compare](/844%20-%20Backspace%20String%20Compare.java)|[844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|栈|
 |846|[Hand of Straights](/846%20-%20Hand%20of%20Straights.java)|[846. Hand of Straights](https://leetcode-cn.com/problems/hand-of-straights/description/)|贪心算法|
+|1052|[Grumpy Bookstore Owner](/1052%20-%20Grumpy%20Bookstore%20Owner.java)|[1052. Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|数组+滑动窗口|
 |AUD.0801|[Three Steps Problem LCCI](/AUD.0801%20-%20Three%20Steps%20Problem.java)|[AUD.0801. Three Steps Problem LCCI](https://leetcode-cn.com/problems/three-steps-problem-lcci/)|动态规划|
 
