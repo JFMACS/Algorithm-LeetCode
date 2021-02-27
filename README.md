@@ -16,14 +16,20 @@
 |198|[House Robber](/198%20-%20House%20Robber.java)|[198. House Robber](https://leetcode-cn.com/problems/house-robber/description/)|动态规划|
 |350|[Intersection of Two Arrays Ⅱ](/350%20-%20Intersection%20of%20Two%20Arrays%20Ⅱ.java)|[350. Intersection of Two Arrays Ⅱ](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)|List|
 |392|[Is Subsequence](https://github.com/JFMACS/Algorithm-LeetCode/blob/master/392%20-%20Is%20Subsequence.java)|[392. Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|动态规划|
+|395|[Longest Substring with At Least K Repeating Characters](/395%20-%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.java)|[395. Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|递归+分治算法|
 |403|[Frog Jump](/403%20-%20Frog%20Jump.java)|[403. Frog Jump](https://leetcode-cn.com/problems/frog-jump/description/)|递归+动态规划+HashSet|
 |461|[Hamming Distance](/461%20-%20%20Hamming%20Distance.java)|[461. Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/description/)|位运算|
 |541|[Reverse String Ⅱ](/541%20-%20Reverse%20-%20String%20-%20Ⅱ.java)|[541. Reverse String Ⅱ](https://leetcode-cn.com/problems/reverse-string-ii/description/)|字符串处理|
 |697|[Degree of an Array](/697%20-%20Degree%20of%20an%20Array.java)|[697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|数组|
 |746|[Min Cost Climbing Stairs](/746%20-%20Min%20Cost%20Climbing%20Stairs.java)|[746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|动态规划|
+|766|[Toeplitz Matrix](/766%20-%20Toeplitz%20Matri.java)|[766. Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)|数组|
+|832|[Flipping an Image](832%20-%20Flipping%20an%20Image.java)|[832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|位运算+数组|
 |841|[Keys and Rooms](/841%20-%20Keys%20and%20Rooms.java)|[841.Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)|深度优先|
 |844|[Backspace String Compare](/844%20-%20Backspace%20String%20Compare.java)|[844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|栈|
 |846|[Hand of Straights](/846%20-%20Hand%20of%20Straights.java)|[846. Hand of Straights](https://leetcode-cn.com/problems/hand-of-straights/description/)|贪心算法|
+|867|[Transpose Matrix](/867%20-%20Transpose%20Matrix.java)|[867. Transpose Matrix](https://leetcode-cn.com/problems/transpose-matrix/)|数列|
+|896|[Monotonic Array](/896%20-%20Monotonic%20Array.java)|[896. Monotonic Array](https://leetcode-cn.com/problems/monotonic-array/)|数组|
 |1052|[Grumpy Bookstore Owner](/1052%20-%20Grumpy%20Bookstore%20Owner.java)|[1052. Grumpy Bookstore Owner](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)|数组+滑动窗口|
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](/1438%20-%20Longest%20Continuous%20Subarray%20With%20Absolute%20Diff%20Less%20Than%20or%20Equal%20to%20Limit.java)|[1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)|TreeMap+滑动窗口|
 |AUD.0801|[Three Steps Problem LCCI](/AUD.0801%20-%20Three%20Steps%20Problem.java)|[AUD.0801. Three Steps Problem LCCI](https://leetcode-cn.com/problems/three-steps-problem-lcci/)|动态规划|
 
