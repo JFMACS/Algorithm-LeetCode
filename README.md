@@ -1,7 +1,8 @@
 # Algorithm-LeetCode
+
 ### 题目来源：LeetCode
 
-#### 作者：JFMACS
+##### `作者：JFMACS`
 
 |#|JFMACS|LeetCode|Knowlage|
 |:---:|-----|------|:---:|
@@ -14,6 +15,9 @@
 |084|[Largest Rectangle in Histogram](/084%20-%20Largest%20Rectangle%20in%20Histogram.java)|[084. Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/description/)|HashSet|
 |121|[Best Time to Buy and Sell Stock](/121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|[121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|动态规划|
 |198|[House Robber](/198%20-%20House%20Robber.java)|[198. House Robber](https://leetcode-cn.com/problems/house-robber/description/)|动态规划|
+|303|[Range Sum Query - Immutable](/303%20-%20Range%20Sum%20Query%20-%20Immutable.java)|[303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|动态规划|
+|304|[Range Sum Query 2D - Immutable](/304%20-%20Range%20Sum%20Query%202D%20-%20Immutable.java)|[304. Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|动态规划|
+|338|[Counting Bits](/338%20-%20Counting%20Bits.java)|[338. Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|位运算|
 |350|[Intersection of Two Arrays Ⅱ](/350%20-%20Intersection%20of%20Two%20Arrays%20Ⅱ.java)|[350. Intersection of Two Arrays Ⅱ](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)|List|
 |392|[Is Subsequence](https://github.com/JFMACS/Algorithm-LeetCode/blob/master/392%20-%20Is%20Subsequence.java)|[392. Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|动态规划|
 |395|[Longest Substring with At Least K Repeating Characters](/395%20-%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.java)|[395. Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|递归+分治算法|
