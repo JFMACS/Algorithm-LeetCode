@@ -13,13 +13,22 @@
 |070|[Climbing Stairs](/070%20-%20Climbing%20Stairs.java)|[070. Climbing Stairs](https://leetcode-cn.com/problems/climbing-stairs/)|动态规划|
 |071|[Simplify Path](/071%20-%20Simplify%20Path.java)|[071. Simplify Path](https://leetcode-cn.com/problems/simplify-path/)|栈|
 |084|[Largest Rectangle in Histogram](/084%20-%20Largest%20Rectangle%20in%20Histogram.java)|[084. Largest Rectangle in Histogram](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/description/)|HashSet|
-|121|[Best Time to Buy and Sell Stock](/121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|[121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|动态规划|
+|121|[Best Time to Buy and Sell Stock](/121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.java)|[121. Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|动态规划|
+|157|[Read N Characters Given Read4](/157%20-%20Read%20N%20Characters%20Given%20Read4.java)|[157.Read N Characters Given Read4](https://leetcode-cn.com/problems/read-n-characters-given-read4/)|字符数组|
+|163|[Missing Ranges](/163%20-%20Missing%20Ranges.java)|[163.Missing Ranges](https://leetcode-cn.com/problems/missing-ranges/)|数组|
+|170|[Two Sum III - Data structure design.java](/170.%20Two%20Sum%20III%20-%20Data%20structure%20design.java)|[170.Two Sum III - Data structure design](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/)|哈希|
 |198|[House Robber](/198%20-%20House%20Robber.java)|[198. House Robber](https://leetcode-cn.com/problems/house-robber/description/)|动态规划|
+|243|[Shortest Word Distance](/243%20-%20Shortest%20Word%20Distance.java)|[243.Shortest Word Distance](https://leetcode-cn.com/problems/shortest-word-distance/)|哈希|
+|246|[Strobogrammatic Number](/246%20-%20Strobogrammatic%20Number.java)|[246. Strobogrammatic Number](https://leetcode-cn.com/problems/strobogrammatic-number/)|字符串|
+|252|[Meeting Rooms.java](/252%20-%20Meeting%20Rooms.java)|[252. Meeting Rooms](https://leetcode-cn.com/problems/meeting-rooms/)|数组|
+|266|[Palindrome Permutation](/266%20-%20Palindrome%20Permutation.java)|[266. Palindrome Permutation](https://leetcode-cn.com/problems/palindrome-permutation/)|哈希|
+|270|[Closest Binary Search Tree Value](/270%20-%20Closest%20Binary%20Search%20Tree%20Value.java)|[270. Closest Binary Search Tree Value](https://leetcode-cn.com/problems/closest-binary-search-tree-value/)|二叉搜索树|
+|293|[Flip Game](/293%20-%20Flip%20Game.java)|[293. Flip Game](https://leetcode-cn.com/problems/flip-game/)|数组|
 |303|[Range Sum Query - Immutable](/303%20-%20Range%20Sum%20Query%20-%20Immutable.java)|[303. Range Sum Query - Immutable](https://leetcode-cn.com/problems/range-sum-query-immutable/)|动态规划|
 |304|[Range Sum Query 2D - Immutable](/304%20-%20Range%20Sum%20Query%202D%20-%20Immutable.java)|[304. Range Sum Query 2D - Immutable](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)|动态规划|
 |338|[Counting Bits](/338%20-%20Counting%20Bits.java)|[338. Counting Bits](https://leetcode-cn.com/problems/counting-bits/)|位运算|
 |350|[Intersection of Two Arrays Ⅱ](/350%20-%20Intersection%20of%20Two%20Arrays%20Ⅱ.java)|[350. Intersection of Two Arrays Ⅱ](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/)|List|
-|392|[Is Subsequence](https://github.com/JFMACS/Algorithm-LeetCode/blob/master/392%20-%20Is%20Subsequence.java)|[392. Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|动态规划|
+|392|[Is Subsequence](/392%20-%20Is%20Subsequence.java)|[392. Is Subsequence](https://leetcode-cn.com/problems/is-subsequence/)|动态规划|
 |395|[Longest Substring with At Least K Repeating Characters](/395%20-%20Longest%20Substring%20with%20At%20Least%20K%20Repeating%20Characters.java)|[395. Longest Substring with At Least K Repeating Characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)|递归+分治算法|
 |403|[Frog Jump](/403%20-%20Frog%20Jump.java)|[403. Frog Jump](https://leetcode-cn.com/problems/frog-jump/description/)|递归+动态规划+HashSet|
 |461|[Hamming Distance](/461%20-%20%20Hamming%20Distance.java)|[461. Hamming Distance](https://leetcode-cn.com/problems/hamming-distance/description/)|位运算|
@@ -27,7 +36,7 @@
 |697|[Degree of an Array](/697%20-%20Degree%20of%20an%20Array.java)|[697. Degree of an Array](https://leetcode-cn.com/problems/degree-of-an-array/)|数组|
 |746|[Min Cost Climbing Stairs](/746%20-%20Min%20Cost%20Climbing%20Stairs.java)|[746. Min Cost Climbing Stairs](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|动态规划|
 |766|[Toeplitz Matrix](/766%20-%20Toeplitz%20Matri.java)|[766. Toeplitz Matrix](https://leetcode-cn.com/problems/toeplitz-matrix/)|数组|
-|832|[Flipping an Image](832%20-%20Flipping%20an%20Image.java)|[832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|位运算+数组|
+|832|[Flipping an Image](/832%20-%20Flipping%20an%20Image.java)|[832. Flipping an Image](https://leetcode-cn.com/problems/flipping-an-image/)|位运算+数组|
 |841|[Keys and Rooms](/841%20-%20Keys%20and%20Rooms.java)|[841.Keys and Rooms](https://leetcode-cn.com/problems/keys-and-rooms/)|深度优先|
 |844|[Backspace String Compare](/844%20-%20Backspace%20String%20Compare.java)|[844. Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/)|栈|
 |846|[Hand of Straights](/846%20-%20Hand%20of%20Straights.java)|[846. Hand of Straights](https://leetcode-cn.com/problems/hand-of-straights/description/)|贪心算法|
